@@ -1,4 +1,4 @@
-<?php
+            <?php
 include("connection.php");
 $sql = "SELECT * from exam";
 $result = mysqli_query($conn, $sql);
